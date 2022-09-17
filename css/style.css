@@ -1660,6 +1660,10 @@
             margin-top: 50px !important;
         }
 
+        .company-name,
+        .company-address {
+            padding-bottom: 2rem;
+        }
     }
 
     @media only screen and (max-width: 400px) {
